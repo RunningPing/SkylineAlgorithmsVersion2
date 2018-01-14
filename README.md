@@ -4,7 +4,7 @@
 
 我运行后的一个记录：  
 
-![](https://github.com/RunningPing/SkylineAlgorithms/blob/master/result.PNG)
+![](https://github.com/RunningPing/SkylineAlgorithmsVersion2/blob/master/result.PNG)
 
 进行比较两次的修改后得到的另一个记录：
-![](https://github.com/RunningPing/SkylineAlgorithms/blob/second/result2.PNG)
+![](https://github.com/RunningPing/SkylineAlgorithmsVersion2/blob/master/result2.PNG)
